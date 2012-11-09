@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Open Book Project</title>
+<base href="http://openbookproject.net/">
+<link rel="stylesheet" type="text/css" href="obp.css">
+</head>
+
+<body>
+<div id="Container">
+
+<div id="Header">
+  <div style="float: left; margin-bottom: 0px;">
+    <a href="index.php"><img src="images/OBPlogo.png" alt="OBP logo" /></a>
+  </div>
+  <div id="Title">
+  Open Book Project
+  <div class="Quote">
+    
+<p style="margin: 40px 50px 0px 100px;"><em>
+"Find a job you love and you'll never work a day in your life."
+</em></p>
+<p style="text-indent: 60%; margin-bottom: 0; font-style: normal;">
+-- Confucius</p>
+  </div>
+  </div>
+</div>
+
+<div id="Nav">
+  <div class="MenuItem"><a href="books">Books</a></div>
+  <div class="MenuItem"><a href="tutorials">Tutorials</a></div>
+  <div class="MenuItem"><a href="courses">Courses</a></div>
+  <div class="MenuItem"><a href="projects">Projects</a></div>
+  <div class="MenuItem"><a href="pybiblio">Python Bibliotheca</a></div>
+  <div class="MenuItem"><a href="multimedia">Multimedia</a></div>
+  <div class="MenuItem"><a href="mission.php">Mission</a></div>
+  <div class="MenuItem"><a href="contrib">Contributors</a></div>
+  <div class="MenuItem"><a href="index.php">Home</a></div>
+</div>
+
+<div id="Content">
+<table>
+<tr>
+<td class="contribpic">
+  <img src="contrib/images/hbatiste.jpg" alt="Howard Batiste" />
+</td>
+<td>
+  <p><b>Howard Batiste</b><br />
+  Computer Science Student<br />
+  Governor's Career and Technical Academy<br /><br />
+  + Teacher: Scratch and Python<br />
+  + Contributor: Gasp Python Course<br />
+  email: <a href="mailto:howard.batiste@gmail.com">howard.batiste@gmail.com</a>
+  </p>
+</td>
+<td class="contribpic">
+  <img src="contrib/images/pcardune.jpg" alt="Paul Carduner" />
+</td>
+<td>
+  <p><b>Paul Carduner</b><br />
+  Computer Programmer, Graphic Artist<br /><br />
+  + Developer: Guido van Robot Programming Language<br />
+  + Developer: SII (SII Isn't Idle)<br />
+  + Graphic Designer: Open Book Project<br /> 
+  email:
+  <a href="mailto:@paulcarduner.ibiblio.org">paulcarduner@ibiblio.org</a>
+  <br />
+  homepage:
+  <a href="http://www.ibiblio.org/paulcarduner">
+  http://www.ibiblio.org/paulcarduner</a><br />
+  </p>
+</td>
+<tr>
+<td class="contribpic">
+  <img src="contrib/images/jonah.jpg" alt="Jonah Cohen" />
+</td>
+<td>
+  <p><b>Jonah Cohen</b><br />
+  + Programmer: LaTex to HTML converter<br />
+</td>
+<td class="contribpic">
+  <img src="contrib/images/kcole.jpg" alt="Kevin Cole" />
+</td>
+<td>
+  <p><b>Kevin Cole</b><br />
+  Professional Programmer, Gallaudet University<br /><br />
+  + Author of <a href="http://www.ibiblio.org/obp/tutorials">
+  Kevin Cole's Tutorials</a><br />
+  email: <a href="mailto:dc.loco@gmail.com">
+  dc.loco@gmail.com</a><br />
+</td>
+</tr>
+<tr>
+<td class="contribpic">
+  <img src="contrib/images/jeff.jpg" alt="Jeffrey Elkner" />
+</td>
+<td>
+  <p><b>Jeffrey Elkner</b><br />
+  Information Technology Instructor<br />
+  Governor's Career and Technical Academy in Arlington<br /><br />
+  + Co-author: How to think like a computer scientist<br />
+  + Webmaster: Open Book Project<br />
+  email: <a href="mailto:jeff@elkner.net">jeff@elkner.net</a><br />
+  homepage: <a href="http://elkner.net">http://www.elkner.net</a><br />
+  </p>
+</td>
+<td class="contribpic">
+  <img src="contrib/images/aestrada.jpg" alt="Angela Estrada" />
+</td>
+<td>
+  <p><b>Angela Estrada</b><br />
+  Former student, GCTAA<br />
+  currently attending NVCC<br /><br />
+  + Spanish translation of Manos a la obra con XHTML<br />
+</td>
+</tr>
+<tr>
+<td class="contribpic">
+  <img src="contrib/images/tony.jpg" alt="Tony R. Kuphaldt" />
+</td>
+<td>
+  <p><b>Tony R. Kuphaldt</b><br />
+  Instrumentation Instructor, Bellingham Technical College<br /><br />
+  + Author: Lessons in Electric Circuits<br />
+  email: <a href="mailto:tonykuphaldt@mailcity.com">tonykuphaldt@mailcity.com</a><br />
+  homepage:<br />
+  </p>
+</td>
+
+<td class="contribpic">
+  <img src="contrib/images/chris.png" alt="Chris Meyers" />
+</td>
+<td>
+  <p><b>Chris Meyers</b><br />
+  Professional Programmer<br /><br />
+  + Co-author: How to think like a computer scientist<br />
+  + Coordinator: Python for Fun<br />
+  email: <a href="mailto:cmeyers@guardnet.com">cmeyers@guardnet.com</a>
+  <br />
+  homepage: <a href="http://www.ibiblio.org/obp/py4fun">
+  http://www.ibiblio.org/obp/py4fun</a><br /></p>
+</td>
+</tr>
+<tr>
+<td class="contribpic">
+  <img src="contrib/images/wilson.jpg" alt="Tim Wilson" />
+</td>
+<td>
+  <p><b>Tim Wilson</b><br />
+  Computer Science Instructor, Sibley High School<br /><br />
+  + Author: Python Programming Problems and Tips<br />
+  email: <a href="mailto:wilson@visi.com">wilson@visi.com</a><br />
+  homepage: <a href="http://www.isd197.org/sibley/cs/icp">
+  http://www.isd197.org/sibley/cs/icp</a>
+  <br /></p>
+</td>
+
+</tr>
+</table>
+</div>
+
+<div id="Footer">
+<a href="http://www.ibiblio.org/">
+<img src="http://www.ibiblio.org/hosted/images/sm_hosted_trans.gif"
+width="100" height="30" alt="hosted by ibiblio" /></a>
+</div>
+
+<p style="text-align: center;">
+<a href="http://validator.w3.org/check/referer">Valid HTML</a> |
+<a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">Valid
+CSS</a>
+</p>
+
+</div>
+
+</body>
+</html>

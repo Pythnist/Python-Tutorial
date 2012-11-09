@@ -1,0 +1,129 @@
+body {
+    background-color: #f2f2f2;
+}
+
+a {
+    color: #196182;
+    background: transparent;
+    text-decoration: none;
+}
+a:link {
+    color: #196182;
+    background: transparent;
+}
+a:visited {
+    color: #196182;
+    background: transparent;
+}
+a:hover {
+    color: #2387b5;
+    border-bottom: 1px solid #2387b5;
+    background: transparent;
+}
+
+h1 {
+    background: transparent;
+}
+
+h2 {
+    font: 16px/32px verdana, arial, helvetica, sans-serif;
+    color: #f90;
+    background: transparent;
+    margin: 0px;
+}
+
+p {
+    font: 12px/20px verdana, arial, helvetica, sans-serif;
+    margin: 0px 0px 16px 0px;
+    padding: 0px;
+}
+
+img {
+    border: 0;
+}
+
+#Container {
+    margin: 20px;
+}
+
+#Header {
+    border: 1px solid #ccc;
+    color: #f36c2c;
+    text-align: center;
+    background-color: #fff;
+    font-family: times roman, serif;
+    font-size: 72px;
+    margin-bottom: 10px;
+    padding: 10px;
+    min-height: 180px;
+}
+
+#Title {
+    margin-left: 140px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#Nav {
+    float: left;
+    width: 150px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 5px 10px 5px 10px;
+}
+
+#Content {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px; margin-left: 182px;
+    padding: 10px;
+}
+
+#Footer {
+    clear: both;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+    border: 1px solid #bbb;
+    background-color: #ddd;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+
+#Footer a {
+    padding: 0 10px 0;
+}
+.Question {
+    color: #f90;
+    font-size: 1.1em;
+}
+.Answer {
+    margin-left: 25px;
+}
+div.Answer p {
+    margin-top: -10px;
+    line-height: 105%;
+}
+.MenuItem {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-top: 5px; margin-bottom: 5px;
+    padding: 2px 2px 5px 2px;
+    text-align: center;
+}
+
+.MenuItem:hover {
+    background-color: #f5f5f5;
+}
+
+.Quote {
+    color: #000;
+    text-align: justify;
+    margin-top: -30px;
+    padding-bottom: 0px;
+}

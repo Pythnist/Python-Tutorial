@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Open Book Project</title>
+<base href="http://openbookproject.net/">
+<link rel="stylesheet" type="text/css" href="obp.css">
+</head>
+
+<body>
+<div id="Container">
+
+<div id="Header">
+  <div style="float: left; margin-bottom: 0px;">
+    <a href="index.php"><img src="images/OBPlogo.png" alt="OBP logo" /></a>
+  </div>
+  <div id="Title">
+  Open Book Project
+  <div class="Quote">
+    
+<p style="margin: 40px 50px 0px 100px;"><em>
+"As we enjoy great Advantages from the Inventions of others, we should
+         be glad of an Opportunity to serve others by any Invention of ours,
+	 and this we should do freely and generously."
+</em></p>
+<p style="text-indent: 60%; margin-bottom: 0; font-style: normal;">
+-- Benjamin Franklin</p>
+  </div>
+  </div>
+</div>
+
+<div id="Nav">
+  <div class="MenuItem"><a href="books">Books</a></div>
+  <div class="MenuItem"><a href="tutorials">Tutorials</a></div>
+  <div class="MenuItem"><a href="courses">Courses</a></div>
+  <div class="MenuItem"><a href="projects">Projects</a></div>
+  <div class="MenuItem"><a href="pybiblio">Python Bibliotheca</a></div>
+  <div class="MenuItem"><a href="multimedia">Multimedia</a></div>
+  <div class="MenuItem"><a href="mission.php">Mission</a></div>
+  <div class="MenuItem"><a href="contrib">Contributors</a></div>
+  <div class="MenuItem"><a href="index.php">Home</a></div>
+</div>
+
+<div id="Content">
+<h2><a href="projects/gasp">GASP</a></h2>
+<p>
+GASP, the Graphics API for Students of Python, is a procedural API designed to
+provide an easy and fun way for learning programmers to write games and other
+programs using colors, shapes, pictures, and movement. It is based on the
+PyGame library, which, though full-featured, is too complicated for beginners
+to easily learn. GASP's primary goal is to educate and lead students into the
+full use of Python and object oriented programming.
+</p>
+<h2><a href="books/socratic/">Socratic Electronics</a></h2>
+<p>
+This website hosts a collection of questions and answers intended as a basis
+for Socratic discussions on the subject of electronics. By first assigning
+these questions to students for their own research and study, then having
+students present their findings in class, students learn how to research,
+problem-solve, collaborate, and clearly articulate their thoughts while
+learning the basic subject matter. While the resources found on this site are
+specifically designed for teaching electronics, the method is applicable to a
+wide variety of disciplines. I welcome any constructive criticism, as well as
+participation in the development of this learning resource.
+</p>
+<p>
+Tony Kuphaldt
+</p>
+<h2><a href="http://gvr.sourceforge.net">Guido van Robot</a></h2>
+<p>
+Karel the Robot is a rudimentary programming language created by
+Richard E. Pattis at Carnegie Mellon.
+</p>
+<p>
+The Guido van Robot project is a wxPython rewrite by students Paul Carduner,
+Donald Oellerich and Waseem Daher, of Steve Howell's original Karel
+interpreter, written in Python.
+</p>
+<h2><a href="projects/schoolNetNA">SchoolNet Namibia</a></h2>
+<p>
+</p>
+</div>
+
+<div id="Footer">
+<a href="http://www.ibiblio.org/">
+<img src="http://www.ibiblio.org/hosted/images/sm_hosted_trans.gif"
+width="100" height="30" alt="hosted by ibiblio" /></a>
+</div>
+
+<p style="text-align: center;">
+<a href="http://validator.w3.org/check/referer">Valid HTML</a> |
+<a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">Valid
+CSS</a>
+</p>
+
+</div>
+
+</body>
+</html>
+ 

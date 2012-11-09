@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Open Book Project</title>
+<base href="http://openbookproject.net/">
+<link rel="stylesheet" type="text/css" href="obp.css">
+</head>
+
+<body>
+<div id="Container">
+
+<div id="Header">
+  <div style="float: left; margin-bottom: 0px;">
+    <a href="index.php"><img src="images/OBPlogo.png" alt="OBP logo" /></a>
+  </div>
+  <div id="Title">
+  Open Book Project
+  <div class="Quote">
+    
+<p style="margin: 40px 50px 0px 100px;"><em>
+"It is a very grave mistake to think that the enjoyment of seeing and
+         searching can be promoted by means of coercion and a sense of duty."
+</em></p>
+<p style="text-indent: 60%; margin-bottom: 0; font-style: normal;">
+-- Albert Einstein</p>
+  </div>
+  </div>
+</div>
+
+<div id="Nav">
+  <div class="MenuItem"><a href="books">Books</a></div>
+  <div class="MenuItem"><a href="tutorials">Tutorials</a></div>
+  <div class="MenuItem"><a href="courses">Courses</a></div>
+  <div class="MenuItem"><a href="projects">Projects</a></div>
+  <div class="MenuItem"><a href="pybiblio">Python Bibliotheca</a></div>
+  <div class="MenuItem"><a href="multimedia">Multimedia</a></div>
+  <div class="MenuItem"><a href="mission.php">Mission</a></div>
+  <div class="MenuItem"><a href="contrib">Contributors</a></div>
+  <div class="MenuItem"><a href="index.php">Home</a></div>
+</div>
+
+<div id="Content">
+<h2><a href="multimedia/chaussetteverte">Chaussetteverte</a></h2>
+<h2><a href="multimedia/paulcardunergraphics">Paul Carduner Graphics</a></h2>
+</div>
+
+<div id="Footer">
+<a href="http://www.ibiblio.org/">
+<img src="http://www.ibiblio.org/hosted/images/sm_hosted_trans.gif"
+width="100" height="30" alt="hosted by ibiblio" /></a>
+</div>
+
+<p style="text-align: center;">
+<a href="http://validator.w3.org/check/referer">Valid HTML</a> |
+<a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">Valid
+CSS</a>
+</p>
+
+</div>
+
+</body>
+</html>
+ 
